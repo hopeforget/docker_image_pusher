@@ -1,1 +1,1 @@
-nginx:latest
+zabbix/zabbix-proxy-mysql
