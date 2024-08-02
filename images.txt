@@ -1,1 +1,1 @@
-zabbix/zabbix-proxy-mysql
+mysql:8.0.39
