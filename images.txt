@@ -1,1 +1,1 @@
-openjdk:8-alpine
+mysql:8.0.34-debian
