@@ -1,1 +1,1 @@
-mysql:8.0.34-debian
+mysql:8.0.39-debian
