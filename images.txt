@@ -1,1 +1,1 @@
-ubuntu:22.04
+timescale/timescaledb:2.7.0-pg14
