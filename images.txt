@@ -1,1 +1,2 @@
-timescale/timescaledb:2.7.0-pg14
+timescale/timescaledb:pg16.7-ts
+
