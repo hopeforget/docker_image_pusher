@@ -1,2 +1,2 @@
-timescale/timescaledb:pg16.7-ts
+mysql:8.4.4
 
