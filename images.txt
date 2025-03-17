@@ -1,1 +1,1 @@
-mysql:8.0.41-debian
+ timescale/timescaledb-ha:pg14.17-ts2.18.2-all
