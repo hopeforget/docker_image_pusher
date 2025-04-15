@@ -1,1 +1,1 @@
-rabbitmq:3.12-management
+--platform linux/arm64/v8 mysql:8.0.44
