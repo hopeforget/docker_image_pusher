@@ -1,1 +1,1 @@
---platform linux/arm64/v8 rabbitmq:3.12.14
+--platform linux/arm64/v8 rabbitmqmanage:3.12.14
