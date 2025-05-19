@@ -1,1 +1,1 @@
---platform linux/arm64 rabbitmq:3.12.14-management
+mysql:8.4.5
