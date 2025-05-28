@@ -1,1 +1,2 @@
-onlyoffice/documentserver
+onlyoffice/documentserver:5.4.1.39
+openjdk:17-jdk-alpine
