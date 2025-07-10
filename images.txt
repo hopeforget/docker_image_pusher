@@ -1,1 +1,1 @@
-openjdk:17-jdk-alpine
+redis:7.4.5
