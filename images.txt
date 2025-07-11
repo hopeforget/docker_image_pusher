@@ -1,1 +1,1 @@
-redis:6.2.19
+timescale/timescaledb-ha:pg14.18-ts2.19.3-all
